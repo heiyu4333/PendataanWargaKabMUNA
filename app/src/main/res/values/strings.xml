@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pendataan Warga Kab. MUNA</string>
+    <string name="input_kk">Input KK</string>
+    <string name="tambah_anggota">Tambah Anggota Keluarga</string>
+    <string name="simpan_export">Simpan dan Export Excel</string>
+    <string name="nomor_kk">Nomor KK</string>
+    <string name="alamat">Alamat</string>
+    <string name="kondisi_rumah">Kondisi Rumah</string>
+    <string name="kelurahan">Kelurahan</string>
+    <string name="kecamatan">Kecamatan</string>
+    <string name="nik">NIK</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="hubungan">Hubungan Keluarga</string>
+    <string name="kesehatan">Kesehatan</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="layak_huni">Layak Huni</string>
+    <string name="tidak_layak_huni">Tidak Layak Huni</string>
+    <string name="ayah">Ayah</string>
+    <string name="ibu">Ibu</string>
+    <string name="anak">Anak</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="sehat">Sehat</string>
+    <string name="disabilitas">Disabilitas</string>
+    <string name="sd">SD</string>
+    <string name="smp">SMP</string>
+    <string name="sma">SMA</string>
+    <string name="d3">D3</string>
+    <string name="s1">S1</string>
+    <string name="s2">S2</string>
+    <string name="s3">S3</string>
+    <string name="data_kk">Data KK</string>
+    <string name="daftar_kk">Daftar KK</string>
+    <string name="jumlah_anggota">Jumlah Anggota</string>
+    <string name="simpan">Simpan</string>
+</resources>

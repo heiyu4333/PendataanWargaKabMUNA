@@ -1,0 +1,74 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/data_kk"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:paddingBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etNomorKK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nomor_kk"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/etAlamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/alamat"
+            android:inputType="text" />
+
+        <Spinner
+            android:id="@+id/spKondisiRumah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/etKelurahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/kelurahan"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etKecamatan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/kecamatan"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/tvJumlahAnggota"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jumlah_anggota"
+            android:paddingTop="8dp" />
+
+        <Button
+            android:id="@+id/btnTambahAnggota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tambah_anggota"
+            android:paddingTop="8dp" />
+
+        <Button
+            android:id="@+id/btnSimpanExport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/simpan_export"
+            android:paddingTop="8dp" />
+
+    </LinearLayout>
+</ScrollView>
